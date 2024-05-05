@@ -1,0 +1,7 @@
+﻿  main.c
+  maxmin.c
+C:\Users\e2101096\source\repos\Appdev\Final2\maxmin.c(7,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Final2.vcxproj -> C:\Users\e2101096\source\repos\Appdev\x64\Debug\Final2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
